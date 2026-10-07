@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 190" width="860" height="190">
+<style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace} .p{font-size:12px;fill:#7ee787} .n{font-size:42px;font-weight:700;fill:#e6edf3}
+.t{font-size:16px;fill:#79c0ff} .m{font-size:10px;fill:#8b949e} .r{font-size:12px;fill:#8b949e}</style>
+<rect width="860" height="190" rx="12" fill="#0d1117" stroke="#30363d"/>
+<rect width="5" height="190" rx="2" fill="#26a641"/>
+<text x="32" y="40" class="p">$ whoami</text>
+<text x="32" y="92" class="n">Danvas Osoro</text>
+<text x="34" y="154" class="r">Data Engineer · pipelines · lakehouses · RAG</text>
+<clipPath id="tc"><rect x="32" y="102" width="0" height="34"><animate attributeName="width" from="0" to="576" begin="0.7s" dur="3s" fill="freeze"/></rect></clipPath>
+<text x="32" y="130" class="t" clip-path="url(#tc)" textLength="576" lengthAdjust="spacing" xml:space="preserve">I build the data pipelines that make AI answers trustworthy.</text>
+<rect x="612" y="116" width="9" height="19" fill="#79c0ff" opacity="0"><animate attributeName="opacity" values="1;0;1" dur="1s" begin="3.8s" repeatCount="indefinite"/></rect>
+<path id="p" d="M676 95 H826" stroke="#30363d" stroke-width="2" fill="none"/><circle cx="676" cy="95" r="9" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/><circle cx="676" cy="95" r="3.5" fill="#79c0ff"/><circle cx="726" cy="95" r="9" fill="#0d1117" stroke="#cd7f32" stroke-width="2"/><circle cx="726" cy="95" r="3.5" fill="#cd7f32"/><circle cx="776" cy="95" r="9" fill="#0d1117" stroke="#c0c0c0" stroke-width="2"/><circle cx="776" cy="95" r="3.5" fill="#c0c0c0"/><circle cx="826" cy="95" r="9" fill="#0d1117" stroke="#f2cc60" stroke-width="2"/><circle cx="826" cy="95" r="3.5" fill="#f2cc60"/><circle r="3" fill="#7ee787"><animateMotion dur="3.2s" begin="0.00s" repeatCount="indefinite"><mpath href="#p"/></animateMotion></circle><circle r="3" fill="#7ee787"><animateMotion dur="3.2s" begin="1.07s" repeatCount="indefinite"><mpath href="#p"/></animateMotion></circle><circle r="3" fill="#7ee787"><animateMotion dur="3.2s" begin="2.14s" repeatCount="indefinite"><mpath href="#p"/></animateMotion></circle><text x="676" y="125" text-anchor="middle" class="m">ingest</text><text x="726" y="125" text-anchor="middle" class="m">bronze</text><text x="776" y="125" text-anchor="middle" class="m">silver</text><text x="826" y="125" text-anchor="middle" class="m">gold</text>
+</svg>
